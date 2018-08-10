@@ -241,7 +241,7 @@ $(window).on('load', function() {
         color: " + trySetting('_narrativeLink', 'blue') + " \
       }\
       .in-focus {\
-        background-color: " + trySetting('_narrativeActive', '#f0f0f0') + " \
+        background-color: " + trySetting('_narrativeActive', '#A395C8') + " \
       }")
       .appendTo("head");
 
