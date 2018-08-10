@@ -234,14 +234,14 @@ $(window).on('load', function() {
       .prop("type", "text/css")
       .html("\
       #narration, #title {\
-        background-color: " + trySetting('_narrativeBackground', 'white') + "; \
+        background-color: " + trySetting('_narrativeBackground', '#958CD6') + "; \
         color: " + trySetting('_narrativeText', 'black') + "; \
       }\
       a, a:visited, a:hover {\
         color: " + trySetting('_narrativeLink', 'blue') + " \
       }\
       .in-focus {\
-        background-color: " + trySetting('_narrativeActive', '#A395C8') + " \
+        background-color: " + trySetting('_narrativeActive', '#D4D1EE') + " \
       }")
       .appendTo("head");
 
