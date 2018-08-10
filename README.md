@@ -2,7 +2,7 @@
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative; now supports overlay
 
 ## Live links (replace with your own)
-- Map http://kristindawn.github.io/leaflet-storymaps-with-google-sheets/index.html
+- Map https://kristindawn.github.io/leaflet-storymaps-with-google-sheets/index.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/1dYgZmWyvtoiGEYnAr2auFxHTcjehhXAd43PSEvzEc58/edit#gid=0
 
 ## Create your own
