@@ -235,7 +235,7 @@ $(window).on('load', function() {
       .html("\
       #narration, #title {\
         background-color: " + trySetting('_narrativeBackground', '#383B3F') + "; \
-        color: " + trySetting('_narrativeText', '#e6d549') + "; \
+        color: " + trySetting('_narrativeText', 'white') + "; \
       }\
       a, a:visited, a:hover {\
         color: " + trySetting('_narrativeLink', 'blue') + " \
